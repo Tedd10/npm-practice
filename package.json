@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Tedd10/npm-practice/issues"
   },
-  "homepage": "https://github.com/Tedd10/npm-practice#readme"
+  "homepage": "https://github.com/Tedd10/npm-practice#readme",
+  "dependencies": {
+    "dayjs": "^1.10.8"
+  }
 }
