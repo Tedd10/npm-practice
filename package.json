@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/Tedd10/npm-practice#readme",
   "dependencies": {
-    "dayjs": "^1.10.8"
+    "dayjs": "^1.10.8",
+    "pluralize": "^8.0.0",
+    "validatorjs": "^3.22.1"
   }
 }
