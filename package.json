@@ -1,0 +1,19 @@
+{
+  "name": "npm-practice",
+  "version": "1.0.0",
+  "description": "ex5A npm practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tedd10/npm-practice.git"
+  },
+  "author": "Theodore Akpati",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tedd10/npm-practice/issues"
+  },
+  "homepage": "https://github.com/Tedd10/npm-practice#readme"
+}
